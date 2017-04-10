@@ -1,4 +1,5 @@
 ## 环信服务器端实例代码
+本项目是根据环信demo的java代码进行了封装，大家可以ChatManager中作出自己的处理逻辑。
 
 本项目支持使用[Maven](http://maven.apache.org)构建, 具体使用方式请参考maven的使用文档和pom.xml
 
